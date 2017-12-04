@@ -1,8 +1,8 @@
 use_frameworks!
 
 target 'SJDIYRefreshHeader_Example' do
+  pod 'MJRefresh'
   pod 'SJDIYRefreshHeader', :path => '../'
-
   target 'SJDIYRefreshHeader_Tests' do
     inherit! :search_paths
 

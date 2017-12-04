@@ -1,0 +1,20 @@
+PODS:
+  - MJRefresh (3.1.15.1)
+  - SJDIYRefreshHeader (1.0.0):
+    - MJRefresh
+
+DEPENDENCIES:
+  - MJRefresh
+  - SJDIYRefreshHeader (from `../`)
+
+EXTERNAL SOURCES:
+  SJDIYRefreshHeader:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MJRefresh: 5f8552bc25ca8751c010f621c1098dbdaacbccd6
+  SJDIYRefreshHeader: 8fcc0f2b6179300a69f273f380756f8da6113c84
+
+PODFILE CHECKSUM: 60fc541f7d4113c10dd3e3c299f4ba3784677114
+
+COCOAPODS: 1.3.1

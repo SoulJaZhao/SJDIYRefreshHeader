@@ -1,0 +1,6 @@
+framework module Pods_SJDIYRefreshHeader_Tests {
+  umbrella header "Pods-SJDIYRefreshHeader_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
